@@ -18,7 +18,7 @@ import com.company.bankapp.services.AccountDaoImpl;
 
 /**
  *
- * @author SUPRATIM
+ * @author ARPAN GHOSH
  *
  */
 public class App {
