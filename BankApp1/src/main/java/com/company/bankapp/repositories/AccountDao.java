@@ -9,7 +9,7 @@ import com.company.bankapp.models.Account;
 
 /**
  *
- * @author SUPRATIM
+ * @author ARPAN GHOSH
  *
  */
 public interface AccountDao {
